@@ -17,8 +17,8 @@ This application runs through the basic steps of authentication documented in th
 
 Upon running the application the user will be prompted for their __account name__ and sequentially their private __API key__. A token will then be generated from the given information and stored in a text file in the directory where the application was launched.
 
-![](https://raw.githubusercontent.com/MrPickles2009/IIHS-API-Token-Generator/master/demo.png)
+[![](demo.png)](#readme)
 
 
 ## License
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
